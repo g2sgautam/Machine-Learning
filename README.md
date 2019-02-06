@@ -1,3 +1,3 @@
-# MyCodeRepository---Machine-Learning
+# Machine-Learning
 
-Basic syntaxes and practise of syntaxes in Python for Machine Learning
+Analysis of various datasets and applying Machine Learning Models to solve various problems.
